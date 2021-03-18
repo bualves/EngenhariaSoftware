@@ -7,10 +7,7 @@ package freshco;
 
 import java.util.Scanner;
 
-/**
- *
- * @author victo
- */
+
 public class CadastroFormaPagamento {
     String nomeTitula;
     int numeroCartao;
