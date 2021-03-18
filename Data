@@ -5,10 +5,7 @@
  */
 package freshco;
 
-/**
- *
- * @author victo
- */
+
 class Data {
     int dia;
     int mes;
