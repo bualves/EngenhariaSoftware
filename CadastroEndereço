@@ -7,10 +7,6 @@ package freshco;
 
 import java.util.Scanner;
 
-/**
- *
- * @author victo
- */
 public class CadastroEndereço {
     int cep;
     String rua;
