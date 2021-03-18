@@ -8,10 +8,7 @@ package freshco;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author victo
- */
+
 public class Usuario {
 
     String nomeCompleto;
